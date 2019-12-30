@@ -1,3 +1,8 @@
+Using qiyuangong's program to complete my howework.
+Put anonymity.csv in SVM . 
+
+
+
 Mondrian [![Build Status](https://travis-ci.org/qiyuangong/Mondrian.svg?branch=master)](https://travis-ci.org/qiyuangong/Mondrian)
 ===========================
 Mondrian is a Top-down greedy data anonymization algorithm for relational dataset, proposed by Kristen LeFevre in his papers[1]. To our knowledge, Mondrian is the fastest local recording algorithm, which preserve good data utility at the same time. Although LeFevre gave the pseudocode in his papers, the original source code is not available. You can find the third part Java implementation in Anonymization Toolbox[2].
